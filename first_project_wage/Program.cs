@@ -5,7 +5,11 @@ namespace first_project_wage
     class Program
     {
       
-            Console.WriteLine("Hello Employee!! welocome");
+        static void Main(string[] args)
+        {
+
+
+            Console.WriteLine("Hello Employee!!! Welcome");
         }
     }
 }
